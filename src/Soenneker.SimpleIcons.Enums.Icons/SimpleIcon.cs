@@ -1,6 +1,6 @@
 namespace Soenneker.SimpleIcons.Enums.Icons;
 
-public enum SimpleIcon
+public enum SimpleIconEnum
 {
     Icon1001Tracklists,
     Icon1And1,
