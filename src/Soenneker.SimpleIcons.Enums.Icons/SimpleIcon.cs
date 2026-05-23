@@ -1709,6 +1709,7 @@ public enum SimpleIconEnum
     Livewire,
     Llvm,
     Lmms,
+    Lmstudio,
     Lobsters,
     Local,
     Localsend,
