@@ -148,6 +148,7 @@ public enum SimpleIconEnum
     Apache,
     Apacheairflow,
     Apacheant,
+    Apachearrow,
     Apacheavro,
     Apachecassandra,
     Apachecloudstack,
