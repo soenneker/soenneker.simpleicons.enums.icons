@@ -6994,6 +6994,10 @@ public enum SimpleIconEnum
     /// </summary>
     Lyft,
     /// <summary>
+    /// Represents the m5 stack value.
+    /// </summary>
+    M5Stack,
+    /// <summary>
     /// Represents the maas value.
     /// </summary>
     Maas,
@@ -8374,6 +8378,10 @@ public enum SimpleIconEnum
     /// </summary>
     Opencage,
     /// <summary>
+    /// Represents the opencode value.
+    /// </summary>
+    Opencode,
+    /// <summary>
     /// Represents the opencollective value.
     /// </summary>
     Opencollective,
@@ -8945,6 +8953,10 @@ public enum SimpleIconEnum
     /// Represents the phpstorm value.
     /// </summary>
     Phpstorm,
+    /// <summary>
+    /// Represents the pi value.
+    /// </summary>
+    Pi,
     /// <summary>
     /// Represents the piaggiogroup value.
     /// </summary>
