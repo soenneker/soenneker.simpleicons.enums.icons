@@ -11738,6 +11738,10 @@ public enum SimpleIconEnum
     /// </summary>
     Tampermonkey,
     /// <summary>
+    /// Represents the tangled value.
+    /// </summary>
+    Tangled,
+    /// <summary>
     /// Represents the tanstack value.
     /// </summary>
     Tanstack,
