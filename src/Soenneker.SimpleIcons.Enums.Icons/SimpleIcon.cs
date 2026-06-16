@@ -7342,6 +7342,10 @@ public enum SimpleIconEnum
     /// </summary>
     Meta,
     /// <summary>
+    /// Represents the metaai value.
+    /// </summary>
+    Metaai,
+    /// <summary>
     /// Represents the metabase value.
     /// </summary>
     Metabase,
