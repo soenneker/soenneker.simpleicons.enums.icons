@@ -9790,6 +9790,10 @@ public enum SimpleIconEnum
     /// </summary>
     Radarr,
     /// <summary>
+    /// Represents the radiantearth value.
+    /// </summary>
+    Radiantearth,
+    /// <summary>
     /// Represents the radiofrance value.
     /// </summary>
     Radiofrance,
