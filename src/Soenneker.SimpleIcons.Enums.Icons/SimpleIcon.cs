@@ -3834,6 +3834,10 @@ public enum SimpleIconEnum
     /// </summary>
     Favro,
     /// <summary>
+    /// Represents the fawry value.
+    /// </summary>
+    Fawry,
+    /// <summary>
     /// Represents the fcc value.
     /// </summary>
     Fcc,
