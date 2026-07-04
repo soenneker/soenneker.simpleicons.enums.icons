@@ -4526,6 +4526,10 @@ public enum SimpleIconEnum
     /// </summary>
     Glance,
     /// <summary>
+    /// Represents the glass value.
+    /// </summary>
+    Glass,
+    /// <summary>
     /// Represents the glassdoor value.
     /// </summary>
     Glassdoor,
