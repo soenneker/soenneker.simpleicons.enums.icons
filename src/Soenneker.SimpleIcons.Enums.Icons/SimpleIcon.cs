@@ -6278,6 +6278,10 @@ public enum SimpleIconEnum
     /// </summary>
     Kik,
     /// <summary>
+    /// Represents the kimi value.
+    /// </summary>
+    Kimi,
+    /// <summary>
     /// Represents the kingstontechnology value.
     /// </summary>
     Kingstontechnology,
@@ -13661,6 +13665,10 @@ public enum SimpleIconEnum
     /// Represents the zdf value.
     /// </summary>
     Zdf,
+    /// <summary>
+    /// Represents the zdotai value.
+    /// </summary>
+    Zdotai,
     /// <summary>
     /// Represents the zebpay value.
     /// </summary>
