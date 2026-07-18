@@ -2258,6 +2258,10 @@ public enum SimpleIconEnum
     /// </summary>
     Codeblocks,
     /// <summary>
+    /// Represents the codebuddy value.
+    /// </summary>
+    Codebuddy,
+    /// <summary>
     /// Represents the codecademy value.
     /// </summary>
     Codecademy,
