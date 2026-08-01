@@ -12258,6 +12258,10 @@ public enum SimpleIconEnum
     /// </summary>
     Tradingview,
     /// <summary>
+    /// Represents the trae value.
+    /// </summary>
+    Trae,
+    /// <summary>
     /// Represents the traefikmesh value.
     /// </summary>
     Traefikmesh,
@@ -13682,6 +13686,10 @@ public enum SimpleIconEnum
     /// </summary>
     Zebratechnologies,
     /// <summary>
+    /// Represents the zectrix value.
+    /// </summary>
+    Zectrix,
+    /// <summary>
     /// Represents the zedindustries value.
     /// </summary>
     Zedindustries,
@@ -13801,6 +13809,10 @@ public enum SimpleIconEnum
     /// Represents the zulip value.
     /// </summary>
     Zulip,
+    /// <summary>
+    /// Represents the zx value.
+    /// </summary>
+    Zx,
     /// <summary>
     /// Represents the zyte value.
     /// </summary>
