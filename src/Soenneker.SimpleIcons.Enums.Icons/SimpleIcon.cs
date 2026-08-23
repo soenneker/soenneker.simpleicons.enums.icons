@@ -366,6 +366,10 @@ public enum SimpleIconEnum
     /// </summary>
     Albertheijn,
     /// <summary>
+    /// Represents the albumoftheyear value.
+    /// </summary>
+    Albumoftheyear,
+    /// <summary>
     /// Represents the alby value.
     /// </summary>
     Alby,
