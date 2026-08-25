@@ -10870,6 +10870,10 @@ public enum SimpleIconEnum
     /// </summary>
     Simpleicons,
     /// <summary>
+    /// Represents the simpleiconscdn value.
+    /// </summary>
+    Simpleiconscdn,
+    /// <summary>
     /// Represents the simplelocalize value.
     /// </summary>
     Simplelocalize,
@@ -11881,6 +11885,10 @@ public enum SimpleIconEnum
     /// Represents the temporal value.
     /// </summary>
     Temporal,
+    /// <summary>
+    /// Represents the tencenthy value.
+    /// </summary>
+    Tencenthy,
     /// <summary>
     /// Represents the tensorflow value.
     /// </summary>
