@@ -12314,6 +12314,10 @@ public enum SimpleIconEnum
     /// </summary>
     Travisci,
     /// <summary>
+    /// Represents the traxsource value.
+    /// </summary>
+    Traxsource,
+    /// <summary>
     /// Represents the treehouse value.
     /// </summary>
     Treehouse,
