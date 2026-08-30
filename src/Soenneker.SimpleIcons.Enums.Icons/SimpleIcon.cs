@@ -978,6 +978,10 @@ public enum SimpleIconEnum
     /// </summary>
     Atlassian,
     /// <summary>
+    /// Represents the atomgit value.
+    /// </summary>
+    Atomgit,
+    /// <summary>
     /// Represents the auchan value.
     /// </summary>
     Auchan,
