@@ -8366,6 +8366,10 @@ public enum SimpleIconEnum
     /// </summary>
     Onstar,
     /// <summary>
+    /// Represents the oomol value.
+    /// </summary>
+    Oomol,
+    /// <summary>
     /// Represents the opel value.
     /// </summary>
     Opel,
