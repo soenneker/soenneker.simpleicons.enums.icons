@@ -438,6 +438,10 @@ public enum SimpleIconEnum
     /// </summary>
     Almalinux,
     /// <summary>
+    /// Represents the alphaxiv value.
+    /// </summary>
+    Alphaxiv,
+    /// <summary>
     /// Represents the alpinedotjs value.
     /// </summary>
     Alpinedotjs,
