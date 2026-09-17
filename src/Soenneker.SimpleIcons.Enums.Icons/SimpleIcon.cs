@@ -4634,6 +4634,10 @@ public enum SimpleIconEnum
     /// </summary>
     Godotengine,
     /// <summary>
+    /// Represents the godox value.
+    /// </summary>
+    Godox,
+    /// <summary>
     /// Represents the gofundme value.
     /// </summary>
     Gofundme,
