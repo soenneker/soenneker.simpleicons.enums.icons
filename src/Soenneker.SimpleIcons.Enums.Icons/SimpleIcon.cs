@@ -5502,6 +5502,10 @@ public enum SimpleIconEnum
     /// </summary>
     Hyperx,
     /// <summary>
+    /// Represents the hypit value.
+    /// </summary>
+    Hypit,
+    /// <summary>
     /// Represents the hypothesis value.
     /// </summary>
     Hypothesis,
