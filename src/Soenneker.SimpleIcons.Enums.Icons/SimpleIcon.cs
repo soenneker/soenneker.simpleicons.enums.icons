@@ -8150,6 +8150,10 @@ public enum SimpleIconEnum
     /// </summary>
     Notepadplusplus,
     /// <summary>
+    /// Represents the notesnook value.
+    /// </summary>
+    Notesnook,
+    /// <summary>
     /// Represents the notion value.
     /// </summary>
     Notion,
