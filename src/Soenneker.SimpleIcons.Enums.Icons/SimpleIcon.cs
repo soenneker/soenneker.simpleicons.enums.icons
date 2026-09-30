@@ -11594,6 +11594,10 @@ public enum SimpleIconEnum
     /// </summary>
     Sumologic,
     /// <summary>
+    /// Represents the sumup value.
+    /// </summary>
+    Sumup,
+    /// <summary>
     /// Represents the suno value.
     /// </summary>
     Suno,
