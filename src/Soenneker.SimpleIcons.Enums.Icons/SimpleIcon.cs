@@ -13766,6 +13766,10 @@ public enum SimpleIconEnum
     /// </summary>
     Zensar,
     /// <summary>
+    /// Represents the zensical value.
+    /// </summary>
+    Zensical,
+    /// <summary>
     /// Represents the zerodha value.
     /// </summary>
     Zerodha,
