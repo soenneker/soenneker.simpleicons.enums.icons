@@ -938,6 +938,10 @@ public enum SimpleIconEnum
     /// </summary>
     Aseprite,
     /// <summary>
+    /// Represents the aspire value.
+    /// </summary>
+    Aspire,
+    /// <summary>
     /// Represents the assemblyscript value.
     /// </summary>
     Assemblyscript,
