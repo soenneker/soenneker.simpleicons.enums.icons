@@ -5142,6 +5142,10 @@ public enum SimpleIconEnum
     /// </summary>
     Happycow,
     /// <summary>
+    /// Represents the haproxy value.
+    /// </summary>
+    Haproxy,
+    /// <summary>
     /// Represents the harbor value.
     /// </summary>
     Harbor,
