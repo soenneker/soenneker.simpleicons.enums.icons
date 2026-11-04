@@ -7962,6 +7962,10 @@ public enum SimpleIconEnum
     /// </summary>
     Neutralinojs,
     /// <summary>
+    /// Represents the newapi value.
+    /// </summary>
+    Newapi,
+    /// <summary>
     /// Represents the newbalance value.
     /// </summary>
     Newbalance,
@@ -13813,6 +13817,10 @@ public enum SimpleIconEnum
     /// Represents the zilch value.
     /// </summary>
     Zilch,
+    /// <summary>
+    /// Represents the zilliz value.
+    /// </summary>
+    Zilliz,
     /// <summary>
     /// Represents the zillow value.
     /// </summary>
