@@ -8290,6 +8290,10 @@ public enum SimpleIconEnum
     /// </summary>
     Ocaml,
     /// <summary>
+    /// Represents the oceanbase value.
+    /// </summary>
+    Oceanbase,
+    /// <summary>
     /// Represents the oclc value.
     /// </summary>
     Oclc,
