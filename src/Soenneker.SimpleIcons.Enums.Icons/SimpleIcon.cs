@@ -6338,6 +6338,10 @@ public enum SimpleIconEnum
     /// </summary>
     Kitsu,
     /// <summary>
+    /// Represents the kitty value.
+    /// </summary>
+    Kitty,
+    /// <summary>
     /// Represents the kiwix value.
     /// </summary>
     Kiwix,
@@ -12325,6 +12329,10 @@ public enum SimpleIconEnum
     /// Represents the traefikproxy value.
     /// </summary>
     Traefikproxy,
+    /// <summary>
+    /// Represents the trafficdotcv value.
+    /// </summary>
+    Trafficdotcv,
     /// <summary>
     /// Represents the trailforks value.
     /// </summary>
