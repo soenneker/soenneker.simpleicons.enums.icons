@@ -334,6 +334,10 @@ public enum SimpleIconEnum
     /// </summary>
     Airtransat,
     /// <summary>
+    /// Represents the aisdk value.
+    /// </summary>
+    Aisdk,
+    /// <summary>
     /// Represents the ajv value.
     /// </summary>
     Ajv,
@@ -1645,6 +1649,10 @@ public enum SimpleIconEnum
     /// Represents the broadcom value.
     /// </summary>
     Broadcom,
+    /// <summary>
+    /// Represents the browserslist value.
+    /// </summary>
+    Browserslist,
     /// <summary>
     /// Represents the bruno value.
     /// </summary>
@@ -3689,6 +3697,10 @@ public enum SimpleIconEnum
     /// Represents the europeanunion value.
     /// </summary>
     Europeanunion,
+    /// <summary>
+    /// Represents the eve value.
+    /// </summary>
+    Eve,
     /// <summary>
     /// Represents the eventstore value.
     /// </summary>
