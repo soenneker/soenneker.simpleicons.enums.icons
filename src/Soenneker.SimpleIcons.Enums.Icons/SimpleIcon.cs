@@ -8586,6 +8586,10 @@ public enum SimpleIconEnum
     /// </summary>
     Openvpn,
     /// <summary>
+    /// Represents the openvsx value.
+    /// </summary>
+    Openvsx,
+    /// <summary>
     /// Represents the openwrt value.
     /// </summary>
     Openwrt,
